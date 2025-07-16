@@ -27,6 +27,7 @@ JWT for Authentication
 🔡 Secure API integration
 
 📁 Project Structure
+```
 paytm-clone/
 │
 ├── client/                  # React frontend
@@ -44,6 +45,7 @@ paytm-clone/
 │
 ├── .env                     # Environment variables
 └── README.md
+```
 
 🧑‍💻 Getting Started
 Prerequisites:
